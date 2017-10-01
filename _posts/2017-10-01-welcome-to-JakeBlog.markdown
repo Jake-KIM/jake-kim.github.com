@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jake Kim's blog!"
 date:   2017-10-01 18:19:50 +0900
 categories: jekyll update
 ---
